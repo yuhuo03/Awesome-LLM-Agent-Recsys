@@ -150,18 +150,15 @@ If you want to contribute to this list (please do), feel free to send me a pull 
 
 > Offline metrics, online simulation, user simulators, agent evaluation protocols for recommendation.
 
-- The DSA's Blind Spot: Algorithmic Audit of Advertising and Minor Profiling on TikTok [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.05653)]
-- AgentSelect: Benchmark for Narrative Query-to-Agent Recommendation [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.03761)]
-- Whose Name Comes Up? Benchmarking and Intervention-Based Auditing of LLM-Based Scholar Recommendation [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.08873)]
 - WarpRec: Unifying Academic Rigor and Industrial Scale for Responsible, Reproducible, and Efficient Recommendation [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.17442)]
 - Towards Reliable Negative Sampling for Recommendation with Implicit Feedback via In-Community Popularity [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.18759)]
+- Benchmark Leakage Trap: Can We Trust LLM-based Recommendation? [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.13626)]
 - On the Reliability of User-Centric Evaluation of Conversational Recommender Systems [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.17264)]
-- OmniReview: A Large-scale Benchmark and LLM-enhanced Framework for Realistic Reviewer Recommendation [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.08896)]
 - ConvApparel: A Benchmark Dataset and Validation Framework for User Simulators in Conversational Recommenders [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.16938)]
 - Conv-FinRe: A Conversational and Longitudinal Benchmark for Utility-Grounded Financial Recommendation [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.16990)]
 - Binge Watch: Reproducible Multimodal Benchmarks Datasets for Large-Scale Movie Recommendation on MovieLens-10M and 20M [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.15505)]
-- Benchmark Leakage Trap: Can We Trust LLM-based Recommendation? [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.13626)]
-- EditFlow: Benchmarking and Optimizing Code Edit Recommendation Systems via Reconstruction of Developer Flows [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.21697)]
+- Whose Name Comes Up? Benchmarking and Intervention-Based Auditing of LLM-Based Scholar Recommendation [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.08873)]
+- OmniReview: A Large-scale Benchmark and LLM-enhanced Framework for Realistic Reviewer Recommendation [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.08896)]
 
 ## 🗂️ Datasets
 
