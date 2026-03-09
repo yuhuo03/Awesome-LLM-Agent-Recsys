@@ -1,6 +1,9 @@
 # Awesome LLM Agent Recommender Systems
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<img src="https://img.shields.io/github/stars/yuhuo03/Awesome-LLM-Agent-Recsys">
+<img src="https://img.shields.io/badge/PRs-Welcome-red">
+<img src="https://img.shields.io/github/last-commit/yuhuo03/Awesome-LLM-Agent-Recsys">
 
 A curated list of papers, surveys, benchmarks, datasets, and open-source projects about **LLM Agents for Recommendation / Recommender Systems (Recsys)**.
 
