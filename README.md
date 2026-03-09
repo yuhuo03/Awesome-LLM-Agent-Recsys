@@ -150,6 +150,16 @@ If you want to contribute to this list (please do), feel free to send me a pull 
 
 > Offline metrics, online simulation, user simulators, agent evaluation protocols for recommendation.
 
+### Agentic Recsys / Recsys Agents Benchmarks
+
+- Less is More: Benchmarking LLM Based Recommendation Agents [2026-01-arXiv] [[📄 paper](https://arxiv.org/abs/2601.20316)]
+- AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation [2026-01-arXiv] [[📄 paper](https://arxiv.org/abs/2601.00930)]
+- No-Human in the Loop: Agentic Evaluation at Scale for Recommendation [2025-11-arXiv] [[📄 paper](https://arxiv.org/abs/2511.03051)]
+- Exploring Recommender System Evaluation: A Multi-Modal User Agent Framework for A/B Testing [2026-01-arXiv] [[📄 paper](https://arxiv.org/abs/2601.04554)]
+- RobustExplain: Evaluating Robustness of LLM-Based Explanation Agents for Recommendation [2026-01-arXiv] [[📄 paper](https://arxiv.org/abs/2601.19120)]
+
+### General Recsys Evaluation / Benchmarks / Simulators
+
 - WarpRec: Unifying Academic Rigor and Industrial Scale for Responsible, Reproducible, and Efficient Recommendation [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.17442)]
 - SplitLight: An Exploratory Toolkit for Recommender Systems Datasets and Splits [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.19339)]
 - Towards Reliable Negative Sampling for Recommendation with Implicit Feedback via In-Community Popularity [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.18759)]
