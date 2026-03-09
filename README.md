@@ -151,6 +151,7 @@ If you want to contribute to this list (please do), feel free to send me a pull 
 > Offline metrics, online simulation, user simulators, agent evaluation protocols for recommendation.
 
 - WarpRec: Unifying Academic Rigor and Industrial Scale for Responsible, Reproducible, and Efficient Recommendation [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.17442)]
+- SplitLight: An Exploratory Toolkit for Recommender Systems Datasets and Splits [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.19339)]
 - Towards Reliable Negative Sampling for Recommendation with Implicit Feedback via In-Community Popularity [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.18759)]
 - Benchmark Leakage Trap: Can We Trust LLM-based Recommendation? [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.13626)]
 - On the Reliability of User-Centric Evaluation of Conversational Recommender Systems [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.17264)]
@@ -159,6 +160,23 @@ If you want to contribute to this list (please do), feel free to send me a pull 
 - Binge Watch: Reproducible Multimodal Benchmarks Datasets for Large-Scale Movie Recommendation on MovieLens-10M and 20M [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.15505)]
 - Whose Name Comes Up? Benchmarking and Intervention-Based Auditing of LLM-Based Scholar Recommendation [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.08873)]
 - OmniReview: A Large-scale Benchmark and LLM-enhanced Framework for Realistic Reviewer Recommendation [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.08896)]
+- UserSimCRS v2: Simulation-Based Evaluation for Conversational Recommender Systems [2025-12-arXiv] [[📄 paper](https://arxiv.org/abs/2512.04588)]
+- RecToM: A Benchmark for Evaluating Machine Theory of Mind in LLM-based Conversational Recommender Systems [2025-11-arXiv] [[📄 paper](https://arxiv.org/abs/2511.22275)]
+- Limitations of Current Evaluation Practices for Conversational Recommender Systems and the Potential of User Simulation [2025-10-arXiv] [[📄 paper](https://arxiv.org/abs/2510.05624)]
+- MusiCRS: Benchmarking Audio-Centric Conversational Recommendation [2025-09-arXiv] [[📄 paper](https://arxiv.org/abs/2509.19469)]
+- Fashion-AlterEval: A Dataset for Improved Evaluation of Conversational Recommendation Systems with Alternative Relevant Items [2025-07-arXiv] [[📄 paper](https://arxiv.org/abs/2507.18017)]
+- RecUserSim: A Realistic and Diverse User Simulator for Evaluating Conversational Recommender Systems [2025-06-arXiv] [[📄 paper](https://arxiv.org/abs/2507.22897)]
+- A Literature Review on Simulation in Conversational Recommender Systems [2025-06-arXiv] [[📄 paper](https://arxiv.org/abs/2506.20291)]
+- CRS Arena: Crowdsourced Benchmarking of Conversational Recommender Systems [2024-12-arXiv] [[📄 paper](https://arxiv.org/abs/2412.10514)]
+- Muse: A Multimodal Conversational Recommendation Dataset with Scenario-Grounded User Profiles [2024-12-arXiv] [[📄 paper](https://arxiv.org/abs/2412.18416)]
+- MobileConvRec: A Conversational Dataset for Mobile Apps Recommendations [2024-05-arXiv] [[📄 paper](https://arxiv.org/abs/2405.17740)]
+- Pearl: A Review-driven Persona-Knowledge Grounded Conversational Recommendation Dataset [2024-03-arXiv] [[📄 paper](https://arxiv.org/abs/2403.04460)]
+- How Reliable is Your Simulator? Analysis on the Limitations of Current LLM-based User Simulators for Conversational Recommendation [2024-03-arXiv] [[📄 paper](https://arxiv.org/abs/2403.16416)]
+- Evaluating Large Language Models as Generative User Simulators for Conversational Recommendation [2024-03-arXiv] [[📄 paper](https://arxiv.org/abs/2403.09738)]
+- Concept -- An Evaluation Protocol on Conversational Recommender Systems with System-centric and User-centric Factors [2024-04-arXiv] [[📄 paper](https://arxiv.org/abs/2404.03304)]
+- AUGUST: an Automatic Generation Understudy for Synthesizing Conversational Recommendation Datasets [2023-06-arXiv] [[📄 paper](https://arxiv.org/abs/2306.09631)]
+- Improving Conversational Recommendation Systems via Counterfactual Data Simulation [2023-06-arXiv] [[📄 paper](https://arxiv.org/abs/2306.02842)]
+- U-NEED: A Fine-grained Dataset for User Needs-Centric E-commerce Conversational Recommendation [2023-05-arXiv] [[📄 paper](https://arxiv.org/abs/2305.04774)]
 
 ## 🗂️ Datasets
 
