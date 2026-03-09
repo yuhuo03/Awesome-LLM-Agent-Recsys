@@ -43,13 +43,21 @@ If you want to contribute to this list (please do), feel free to send me a pull 
 
 > Agents doing search/browsing, candidate generation, filtering, constraint satisfaction, explanation, bundle recommendation, etc.
 
-- _TBD (send me any must-include keywords / papers and I’ll add them here)_
+- Reasoning to Rank: An End-to-End Solution for Exploiting Large Language Models for Recommendation [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.12530v1)]
+- De-conflating Preference and Qualification: Constrained Dual-Perspective Reasoning for Job Recommendation with Large Language Models [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.03097v1)]
+- Give Users the Wheel: Towards Promptable Recommendation Paradigm [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.18929v2)]
+- MiniRec: Data-Efficient Reinforcement Learning for LLM-based Recommendation [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.04278v1)]
+- Beyond Factual Correctness: Mitigating Preference-Inconsistent Explanations in Explainable Recommendation [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.03080v1)]
 
 ## 👤 User Modeling & Personalization with Agents
 
 > Memory, long-term preference modeling, profiles, privacy-preserving personalization, on-device agents.
 
-- _TBD_
+- Offline Reasoning for Efficient Recommendation: LLM-Empowered Persona-Profiled Item Indexing [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.21756v1)]
+- RAIE: Region-Aware Incremental Preference Editing with LoRA for LLM-based Recommendation [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2603.00638v1)]
+- S-GRec: Personalized Semantic-Aware Generative Recommendation with Asymmetric Advantage [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.10606v3)]
+- Enhancing Bandit Algorithms with LLMs for Time-varying User Preferences in Streaming Recommendations [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.08067v1)]
+- SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.03536v1)]
 
 ## 💬 Conversational / Interactive Recommendation
 
@@ -61,19 +69,31 @@ If you want to contribute to this list (please do), feel free to send me a pull 
 
 > Debate/collaboration, role-based agents (e.g., critic, planner, ranker), self-play for recsys.
 
-- _TBD_
+- Internalizing Multi-Agent Reasoning for Accurate and Efficient LLM-based Recommendation [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.09829v2)]
+- LLMs as Orchestrators: Constraint-Compliant Multi-Agent Optimization for Recommendation Systems [2026-01-arXiv] [[📄 paper](https://arxiv.org/abs/2601.19121v3)]
+- AgentRec: Next-Generation LLM-Powered Multi-Agent Collaborative Recommendation with Adaptive Intelligence [2025-10-arXiv] [[📄 paper](https://arxiv.org/abs/2510.01609v1)]
+- Multi-Agent Collaborative Filtering: Orchestrating Users and Items for Agentic Recommendations [2025-11-arXiv] [[📄 paper](https://arxiv.org/abs/2511.18413v3)]
+- RecNet: Self-Evolving Preference Propagation for Agentic Recommender Systems [2026-01-arXiv] [[📄 paper](https://arxiv.org/abs/2601.21609v1)]
+- AgenticTagger: Structured Item Representation for Recommendation with LLM Agents [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.05945v2)]
 
 ## 📊 Evaluation, Benchmarks & Simulators
 
 > Offline metrics, online simulation, user simulators, agent evaluation protocols for recommendation.
 
 - On the Reliability of User-Centric Evaluation of Conversational Recommender Systems [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.17264)] [[🔗 repo](https://github.com/michael-mue/reliable-crs-eval)]
+- Benchmark Leakage Trap: Can We Trust LLM-based Recommendation? [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.13626v1)]
+- AgentSelect: Benchmark for Narrative Query-to-Agent Recommendation [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.03761v1)]
+- ConvApparel: A Benchmark Dataset and Validation Framework for User Simulators in Conversational Recommenders [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.16938v1)]
+- Conv-FinRe: A Conversational and Longitudinal Benchmark for Utility-Grounded Financial Recommendation [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.16990v1)]
+- No-Human in the Loop: Agentic Evaluation at Scale for Recommendation [2025-11-arXiv] [[📄 paper](https://arxiv.org/abs/2511.03051v1)]
 
 ## 🗂️ Datasets
 
 - MovieLens (GroupLens) [[🔗 site](https://grouplens.org/datasets/movielens/)]
 - Amazon Reviews / Amazon Product Data (McAuley et al.) [[🔗 site](https://nijianmo.github.io/amazon/index.html)]
 - MIND: Microsoft News Dataset [[🔗 site](https://msnews.github.io/)]
+- ConvApparel (conversational recommendation benchmark dataset) [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.16938v1)]
+- Conv-FinRe (conversational & longitudinal benchmark) [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.16990v1)]
 
 ## 🧩 Open-source Projects
 
