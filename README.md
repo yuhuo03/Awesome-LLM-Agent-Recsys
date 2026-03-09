@@ -9,7 +9,8 @@
 
 If you want to contribute to this list (please do), feel free to send me a pull request. 🚀 If you have any further questions, feel free to contact [Yu Huo](https://github.com/yuhuo03).
 
-- [📚 Contents](#-contents)
+## 📚 Contents
+
 - [🤖 Agentic Recommenders (End-to-end)](#-agentic-recommenders-end-to-end)
 - [🧠 LLM for Recsys (Non-agent)](#-llm-for-recsys-non-agent)
 - [🛠️ Tool Use / Planning / Reasoning for Recsys Tasks](#-tool-use--planning--reasoning-for-recsys-tasks)
@@ -19,6 +20,8 @@ If you want to contribute to this list (please do), feel free to send me a pull 
 - [📊 Evaluation, Benchmarks & Simulators](#-evaluation-benchmarks--simulators)
 - [🗂️ Datasets](#-datasets)
 - [🧩 Open-source Projects](#-open-source-projects)
+
+---
 
 ## 🤖 Agentic Recommenders (End-to-end)
 
