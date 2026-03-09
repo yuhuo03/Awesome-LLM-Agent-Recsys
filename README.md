@@ -27,19 +27,23 @@ If you want to contribute to this list (please do), feel free to send me a pull 
 
 > Systems where an LLM agent (often with tools/RAG/memory) performs recommendation-related tasks end-to-end.
 
-- _TBD_
+- ScienceDB AI: An LLM-Driven Agentic Recommender System for Large-Scale Scientific Data Sharing Services [2026-01-arXiv] [[📄 paper](https://arxiv.org/abs/2601.01118)]
 
 ## 🧠 LLM for Recsys (Non-agent)
 
 > LLMs used as encoders/rankers/generators for recsys, but not framed as agents.
 
-- _TBD_
+- Large Language Model Enhanced Recommender Systems: A Survey [2024-12-arXiv] [[📄 paper](https://arxiv.org/abs/2412.13432)]
+- Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond [2024-10-arXiv] [[📄 paper](https://arxiv.org/abs/2410.19744)]
+- ThinkRec: Thinking-based recommendation via LLM [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.15091)]
+- Large Language Models for Multimodal Generative Recommendation with Causal Debiasing [2025-10-arXiv] [[📄 paper](https://arxiv.org/abs/2510.01622)]
+- RecGOAT: Graph Optimal Adaptive Transport for LLM-Enhanced Multimodal Recommendation with Dual Semantic Alignment [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.00682)] [[🔗 repo](https://github.com/6lyc/RecGOAT-LLM4Rec)]
 
 ## 🛠️ Tool Use / Planning / Reasoning for Recsys Tasks
 
 > Agents doing search/browsing, candidate generation, filtering, constraint satisfaction, explanation, bundle recommendation, etc.
 
-- _TBD_
+- _TBD (send me any must-include keywords / papers and I’ll add them here)_
 
 ## 👤 User Modeling & Personalization with Agents
 
@@ -51,7 +55,7 @@ If you want to contribute to this list (please do), feel free to send me a pull 
 
 > Dialogue-based recommendation, critiquing, preference elicitation, interactive ranking.
 
-- _TBD_
+- Recommendation-as-Experience: A framework for context-sensitive adaptation in conversational recommender systems [2026-01-arXiv] [[📄 paper](https://arxiv.org/abs/2601.07401)]
 
 ## 🤝 Multi-Agent Recommendation
 
@@ -63,15 +67,18 @@ If you want to contribute to this list (please do), feel free to send me a pull 
 
 > Offline metrics, online simulation, user simulators, agent evaluation protocols for recommendation.
 
-- _TBD_
+- On the Reliability of User-Centric Evaluation of Conversational Recommender Systems [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.17264)] [[🔗 repo](https://github.com/michael-mue/reliable-crs-eval)]
 
 ## 🗂️ Datasets
 
-- _TBD_
+- MovieLens (GroupLens) [[🔗 site](https://grouplens.org/datasets/movielens/)]
+- Amazon Reviews / Amazon Product Data (McAuley et al.) [[🔗 site](https://nijianmo.github.io/amazon/index.html)]
+- MIND: Microsoft News Dataset [[🔗 site](https://msnews.github.io/)]
 
 ## 🧩 Open-source Projects
 
-- _TBD_
+- RecGOAT-LLM4Rec [[🔗 repo](https://github.com/6lyc/RecGOAT-LLM4Rec)]
+- reliable-crs-eval (user-centric CRS evaluation reliability) [[🔗 repo](https://github.com/michael-mue/reliable-crs-eval)]
 
 ---
 
