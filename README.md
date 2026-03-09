@@ -28,6 +28,10 @@ If you want to contribute to this list (please do), feel free to send me a pull 
 > Systems where an LLM agent (often with tools/RAG/memory) performs recommendation-related tasks end-to-end.
 
 - ScienceDB AI: An LLM-Driven Agentic Recommender System for Large-Scale Scientific Data Sharing Services [2026-01-arXiv] [[📄 paper](https://arxiv.org/abs/2601.01118)]
+- Self-Evolving Recommendation System: End-To-End Autonomous Model Optimization With LLM Agents [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.10226v1)]
+- Self-EvolveRec: Self-Evolving Recommender Systems with LLM-based Directional Feedback [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.12612v1)]
+- RecNet: Self-Evolving Preference Propagation for Agentic Recommender Systems [2026-01-arXiv] [[📄 paper](https://arxiv.org/abs/2601.21609v1)]
+- AgenticTagger: Structured Item Representation for Recommendation with LLM Agents [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.05945v2)]
 
 ## 🧠 LLM for Recsys (Non-agent)
 
@@ -38,6 +42,13 @@ If you want to contribute to this list (please do), feel free to send me a pull 
 - ThinkRec: Thinking-based recommendation via LLM [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.15091)]
 - Large Language Models for Multimodal Generative Recommendation with Causal Debiasing [2025-10-arXiv] [[📄 paper](https://arxiv.org/abs/2510.01622)]
 - RecGOAT: Graph Optimal Adaptive Transport for LLM-Enhanced Multimodal Recommendation with Dual Semantic Alignment [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.00682)] [[🔗 repo](https://github.com/6lyc/RecGOAT-LLM4Rec)]
+- Fine-grained Semantics Integration for Large Language Model-based Recommendation [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.22632v2)]
+- Improving LLM-based Recommendation with Self-Hard Negatives from Intermediate Layers [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.17410v1)]
+- From Logs to Language: Learning Optimal Verbalization for LLM-Based Recommendation in Production [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.20558v1)]
+- Principled Synthetic Data Enables the First Scaling Laws for LLMs in Recommendation [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.07298v2)]
+- SimGR: Escaping the Pitfalls of Generative Decoding in LLM-based Recommendation [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.07847v1)]
+- S-GRec: Personalized Semantic-Aware Generative Recommendation with Asymmetric Advantage [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.10606v3)]
+- Generative Recommendation for Large-Scale Advertising [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.22732v2)]
 
 ## 🛠️ Tool Use / Planning / Reasoning for Recsys Tasks
 
@@ -63,6 +74,9 @@ If you want to contribute to this list (please do), feel free to send me a pull 
 
 > Dialogue-based recommendation, critiquing, preference elicitation, interactive ranking.
 
+- SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.03536v1)]
+- Conv-FinRe: A Conversational and Longitudinal Benchmark for Utility-Grounded Financial Recommendation [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.16990v1)]
+- ConvApparel: A Benchmark Dataset and Validation Framework for User Simulators in Conversational Recommenders [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.16938v1)]
 - Recommendation-as-Experience: A framework for context-sensitive adaptation in conversational recommender systems [2026-01-arXiv] [[📄 paper](https://arxiv.org/abs/2601.07401)]
 
 ## 🤝 Multi-Agent Recommendation
