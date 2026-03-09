@@ -273,13 +273,27 @@ If you want to contribute to this list (please do), feel free to send me a pull 
 - MovieLens (GroupLens) [[🔗 site](https://grouplens.org/datasets/movielens/)]
 - Amazon Reviews / Amazon Product Data (McAuley et al.) [[🔗 site](https://nijianmo.github.io/amazon/index.html)]
 - MIND: Microsoft News Dataset [[🔗 site](https://msnews.github.io/)]
-- ConvApparel (conversational recommendation benchmark dataset) [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.16938v1)]
-- Conv-FinRe (conversational & longitudinal benchmark) [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.16990v1)]
+- Yelp Open Dataset [[🔗 site](https://www.yelp.com/dataset)]
+- Goodreads datasets (collection) [[🔗 repo](https://github.com/MengtingWan/goodreads)]
+- Last.fm 1K/360K (music listening logs; collection) [[🔗 repo](https://github.com/MTG/lastfm-dataset-360K)]
+- OpenDialKG (conversational recommendation / knowledge-grounded dialog) [[🔗 repo](https://github.com/facebookresearch/opendialkg)]
+- ReDial (recommendation dialog) [[🔗 repo](https://github.com/ReDialData/website)]
+- DuRecDial (Chinese conversational recommendation dialog) [[🔗 repo](https://github.com/PaddlePaddle/Knover/tree/develop/projects/DuRecDial)]
+- INSPIRED (CRS dataset) [[🔗 repo](https://github.com/sunnweiwei/INSPIRED)]
+- ConvApparel (conversational recommendation benchmark dataset) [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.16938)]
+- Conv-FinRe (conversational & longitudinal benchmark) [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.16990)]
 
 ## 🧩 Open-source Projects
 
 - RecGOAT-LLM4Rec [[🔗 repo](https://github.com/6lyc/RecGOAT-LLM4Rec)]
 - reliable-crs-eval (user-centric CRS evaluation reliability) [[🔗 repo](https://github.com/michael-mue/reliable-crs-eval)]
+- RecBole (recsys library) [[🔗 repo](https://github.com/RUCAIBox/RecBole)]
+- RecStudio (recsys library) [[🔗 repo](https://github.com/USTCLLM/RecStudio)]
+- Transformers4Rec (NVIDIA; transformer-based recommendation) [[🔗 repo](https://github.com/NVIDIA-Merlin/Transformers4Rec)]
+- Merlin (NVIDIA recommender systems framework) [[🔗 repo](https://github.com/NVIDIA-Merlin/Merlin)]
+- DeepCTR (classic CTR / rec models) [[🔗 repo](https://github.com/shenweichen/DeepCTR)]
+- Microsoft Recommenders (utils + examples) [[🔗 repo](https://github.com/microsoft/recommenders)]
+- OpenHands (general LLM agent platform; useful for building agentic recommenders) [[🔗 repo](https://github.com/All-Hands-AI/OpenHands)]
 
 ---
 
